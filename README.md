@@ -23,6 +23,7 @@ I participated in the brainstorming about forming the idea and turnning it to th
 <<<<<<< HEAD
  Althrough our hypothesis that customer is more likely to use the bike for longer time is proven right. Due to the skewness, it is not fully tested due the limit of the data.# Citibikes
 # Citibikes
-=======
- Althrough our hypothesis that customer is more likely to use the bike for longer time is proven right. Due to the skewness, it is not fully tested due the limit of the data.
->>>>>>> d7d01b46c10ec1a4dbba3213d62cb7d8483b0afc
+
+## Attention
+Since the original CSV file is larger than 100 MB. I could not upload it. Please unzip 201505-citibike-tripdata.zip to run the ipython notebook
+
