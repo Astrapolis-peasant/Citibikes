@@ -20,5 +20,9 @@ I participated in the brainstorming about forming the idea and turnning it to th
 
 
 ## Conclution
+<<<<<<< HEAD
  Althrough our hypothesis that customer is more likely to use the bike for longer time is proven right. Due to the skewness, it is not fully tested due the limit of the data.# Citibikes
 # Citibikes
+=======
+ Althrough our hypothesis that customer is more likely to use the bike for longer time is proven right. Due to the skewness, it is not fully tested due the limit of the data.
+>>>>>>> d7d01b46c10ec1a4dbba3213d62cb7d8483b0afc
